@@ -190,4 +190,4 @@ Inside backend folder:
 ## Contact
 
 - Email: 20r05a0503@cmritonline.ac.in@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Linkedin: https://www.linkedin.com/in/shiva-kumar-3a5b631a4/
