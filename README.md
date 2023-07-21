@@ -162,7 +162,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
+  - Github Repo: https://github.com/20r05a0503@cmritonline.ac.in/Simpletask
 
 - Official Docs
 
